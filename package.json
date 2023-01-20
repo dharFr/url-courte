@@ -1,0 +1,19 @@
+{
+  "name": "@dhar/url-courte",
+  "version": "1.0.0",
+  "description": "My own super simple algorithmically reversible, personal URL shortener.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/url-courte.test.js"
+  },
+  "keywords": [
+    "'URL",
+    "Shortener'",
+    "url",
+    "shortener"
+  ],
+  "author": "Olivier Audard <olivier@audard.net>",
+  "devDependencies": {
+    "cli-color": "^2.0.3"
+  }
+}

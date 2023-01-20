@@ -13,6 +13,19 @@
     "shortener"
   ],
   "author": "Olivier Audard <olivier@audard.net>",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dharFr/url-courte.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dharFr/url-courte/issues"
+  },
+  "homepage": "https://github.com/dharFr/url-courte#readme",
   "devDependencies": {
     "cli-color": "^2.0.3"
   }

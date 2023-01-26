@@ -1,33 +1,33 @@
 {
-  "name": "@dhar/url-courte",
-  "version": "1.0.0",
-  "description": "My own super simple algorithmically reversible, personal URL shortener.",
-  "type": "module",
-  "main": "index.js",
-  "scripts": {
-    "test": "node ./test/url-courte.test.js"
-  },
-  "keywords": [
-    "'URL",
-    "Shortener'",
-    "url",
-    "shortener"
-  ],
-  "author": "Olivier Audard <olivier@audard.net>",
-  "directories": {
-    "lib": "lib",
-    "test": "test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dharFr/url-courte.git"
-  },
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/dharFr/url-courte/issues"
-  },
-  "homepage": "https://github.com/dharFr/url-courte#readme",
-  "devDependencies": {
-    "cli-color": "^2.0.3"
-  }
+	"name": "@dhar/url-courte",
+	"version": "1.0.0",
+	"description": "My own super simple algorithmically reversible, personal URL shortener.",
+	"type": "module",
+	"main": "index.js",
+	"scripts": {
+		"test": "node ./test/url-courte.test.js"
+	},
+	"keywords": [
+		"'URL",
+		"Shortener'",
+		"url",
+		"shortener"
+	],
+	"author": "Olivier Audard <olivier@audard.net>",
+	"directories": {
+		"lib": "lib",
+		"test": "test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/dharFr/url-courte.git"
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/dharFr/url-courte/issues"
+	},
+	"homepage": "https://github.com/dharFr/url-courte#readme",
+	"devDependencies": {
+		"cli-color": "^2.0.3"
+	}
 }

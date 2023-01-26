@@ -13,4 +13,4 @@ function test(desc, fn) {
 	}
 }
 
-export { test };
+export { test }

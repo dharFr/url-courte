@@ -1,8 +1,8 @@
 'use strict';
-const assert = require('assert')
+import assert from 'assert'
 
-const test = require('./lib/index.js')
-const { shorten, expand } = require('../lib/url-courte.js')
+import { test } from './lib/index.js'
+import { shorten, expand } from '../lib/url-courte.js'
 
 test("shorten(): basic use-case with months and days < 10", () => {
 	const date = new Date('2023-02-03')

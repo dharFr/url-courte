@@ -1,1 +1,1 @@
-module.exports = require('./lib/url-courte')
+export * from './lib/url-courte'

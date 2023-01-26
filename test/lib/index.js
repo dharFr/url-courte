@@ -1,4 +1,4 @@
-const clc = require("cli-color");;
+import clc from 'cli-color'
 
 // a super lightweight testing utility
 function test(desc, fn) {
@@ -13,4 +13,4 @@ function test(desc, fn) {
 	}
 }
 
-module.exports = test;
+export { test };

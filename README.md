@@ -23,7 +23,7 @@ npm install @dhar/url-courte
 Converts a published date, category, and ordinal into a _url-courte_ URL fragment.
 
 ``` js
-const { shorten } = require('url-courte')
+import { shorten } from '@dhar/url-courte'
 
 const d = new Date('2023-02-03')
 const shortenedFragment = shorten('articles', d, 1)
@@ -42,7 +42,7 @@ Converts a shortened URL fragment (i.e. 'a202301082') into an expanded _url-cour
 Return an empty string if the provided fragment doesn't match the expected format.
 
 ``` js
-const { expand } = require('url-courte')
+import { expand } from '@dhar/url-courte'
 
 const d = new Date('2023-02-03')
 const expandedFragment = expand('a202301182', {

@@ -2,6 +2,8 @@
 
 My own super simple algorithmically reversible, personal URL shortener.
 
+[![npm](https://img.shields.io/npm/v/@dhar/url-courte.svg)](https://www.npmjs.com/package/@dhar/url-courte)  [![npm](https://img.shields.io/npm/l/@dhar/url-courte.svg)](https://github.com/dharFr/url-courte/blob/main/LICENSE)
+
 Inpired by :
  - [Whistle](http://tantek.pbworks.com/w/page/21743973/Whistle) 
  - https://indieweb.org/permashortlink

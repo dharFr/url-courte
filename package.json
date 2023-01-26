@@ -1,6 +1,6 @@
 {
 	"name": "@dhar/url-courte",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"description": "My own super simple algorithmically reversible, personal URL shortener.",
 	"type": "module",
 	"main": "index.js",
